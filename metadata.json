@@ -1,0 +1,6 @@
+{
+  "name": "SOSCOM 2026 - Pendaftaran Tim Sains SMAN 1 Pangkep",
+  "description": "Sistem Pendaftaran Lomba Beregu SOSCOM 2026 (Smansa Olympic Science Competition) SMAN 1 Pangkep oleh Komunitas SALTY dengan Anti-Duplikasi dan Cetak Kartu Peserta B3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
